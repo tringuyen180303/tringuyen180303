@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tri Nguyen</h1>
-<h3 align="center">I am currently a sophomore at Indian University and I am an aspiring ML Engineer.</h3>
+<h3 align="center">I am currently a sophomore at Indiana University and I am an aspiring ML Engineer.</h3>
 - 🔭 I’m currently working as **Machine Learning Research Assistant**
 
 - 🌱 I’m currently learning **Docker and Kubernetes and Google Cloud Platform**
